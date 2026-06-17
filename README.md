@@ -6,7 +6,7 @@ Features
 
      Playback Control: Play, Stop, Forward, Backward.   
      Media Navigation: Skip audio tracks, jump to next/previous folder.   
-     Video & Subtitles: Toggle fullscreen, change aspect ratio, switch and cycle subtitles.   
+     Video & Subtitles: Toggle fullscreen, change aspect ratio, switch between streams and files and cycle subtitles.   
      Real-time Sliders: Control Volume, Zoom, Playback Speed, and Track Position directly via TrackBars.   
      Search: Send search queries directly from the phone to the PC player.    
      Smart Call Handling: Automatically pauses the player on the PC when an incoming call is detected on the phone, and resumes playback once the call is disconnected.    
