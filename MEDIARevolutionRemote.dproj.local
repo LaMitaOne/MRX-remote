@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.426,=C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.fmx=C:\Downloads\AND test\Unit2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Project2.dproj=C:\Downloads\AND test\LaMitaRemote.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas=C:\Downloads\AND test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,=C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,=C:\Users\Cylance\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2025.02.08 07:51:05.215,C:\Users\Cylance\Documents\_Software\_CyLence\MEDIA Revolution\Lamita Remote\MEDIARevolutionRemote.dproj=C:\Users\Cylance\Documents\_Software\_CyLence\MEDIA Revolution\Lamita Remote\LaMitaRemote.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
