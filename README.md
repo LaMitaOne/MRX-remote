@@ -28,4 +28,28 @@ Tech Stack
      Networking: Indy 10 (UDP)    
      OS Integration: Android PhoneDialer API (for call state detection)     
 
-<img width="591" height="1280" alt="photo_2026-06-17_08-10-31" src="https://github.com/user-attachments/assets/ad7ad8f8-43eb-45df-8c70-60053f9c9960" />
+<img width="591" height="1280" alt="photo_2026-06-17_08-10-31" src="https://github.com/user-attachments/assets/ad7ad8f8-43eb-45df-8c70-60053f9c9960" />     
+
+possible commands MRX already reacts on:    
+    
+     GETPOSITION  <- MRX sends back position of actual track
+     MRGETTITLE   <- MRX sends back title of actual track
+
+     MRPLAY
+     MRSTOP
+     MRPAUSE
+     MRPAUSECALL   MRPLAYANDROID
+
+     MRCLOSE
+     MRFORWARD
+     MRBACKWARD
+     MRASPECT
+     MRREPEAT
+     MRFOLDERFORWARD
+     MRFOLDERBACKWARD
+
+     MRSTARTTITLE    <- + filepath
+     MRNEXTTITLE
+
+     MRZOOMIN
+     MRZOOMOUT
