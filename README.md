@@ -51,5 +51,4 @@ possible commands MRX already reacts on:
      MRSTARTTITLE    <- + filepath
      MRNEXTTITLE
 
-     MRZOOMIN
-     MRZOOMOUT
+     MRZOOM
