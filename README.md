@@ -5,7 +5,7 @@ This app connects to the PC via local network (UDP Broadcast) and sends simple s
 Features     
 
      Playback Control: Play, Stop, Forward, Backward.   
-     Media Navigation: Skip audio tracks, jump to next/previous folder.   
+     Media Navigation: jump to next/previous folder.   
      Video & Subtitles: Toggle fullscreen, change aspect ratio, switch between streams and files and cycle subtitles.   
      Real-time Sliders: Control Volume, Zoom, Playback Speed, and Track Position directly via TrackBars.   
      Search: Send search queries directly from the phone to the PC player.    
